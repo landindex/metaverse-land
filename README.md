@@ -24,7 +24,7 @@ It is important to stay up-to-date on the latest news and trends in the metavers
 
 Some of the latest news in the metaverse land space includes:
 
-The launch of the Otherside metaverse by Yuga Labs, the creators of Bored Ape Yacht Club.
+The launch of the [Otherside metaverse](https://landindex.io/projects/otherside) by Yuga Labs, the creators of Bored Ape Yacht Club.
 The acquisition of Decentraland by Meta.
 The launch of the Sandbox metaverse by Animoca Brands.
 Total Volumes
