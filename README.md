@@ -5,7 +5,7 @@
 As the metaverse continues to grow, so does the demand for NFT land. This has led to a surge in NFT land prices, with some plots selling for millions of dollars.
 
 ## [Metaverse Land Floor Prices](http://landindex.io "Metaverse Land Floor Prices")
-## [Metaverse NFT News](http://landindex.io "Metaverse NFT News")
+## [Metaverse NFT News](http://landindex.io/news "Metaverse NFT News")
 ## [Metaverse Market Cap](http://landindex.io "Metaverse Market Cap")
 
 ![Metaverse Land](https://github.com/landindex/metaverse-land/blob/main/Metaverse-Land-Analytics.png)
